@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 
+  main: MyString
+  temp: MyString
+  temp_max: MyString
+  temp_min: MyString
+  pressure: MyString
+  wind_speed: 1
+  wind_direction: MyString
+
+two:
+  date: 
+  main: MyString
+  temp: MyString
+  temp_max: MyString
+  temp_min: MyString
+  pressure: MyString
+  wind_speed: 1
+  wind_direction: MyString
